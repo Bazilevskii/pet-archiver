@@ -1,4 +1,4 @@
-module github.com/psssix/archiver
+module bazil
 
 go 1.18
 
