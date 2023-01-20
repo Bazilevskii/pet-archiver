@@ -2,7 +2,6 @@ package cmd
 
 import (
 	"errors"
-	"github.com/psssix/archiver/pkg/compression/vlc"
 	"github.com/spf13/cobra"
 	"os"
 	"path/filepath"
